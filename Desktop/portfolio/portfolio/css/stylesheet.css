@@ -13,8 +13,10 @@ body {
 }
 
 #main {
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    background-image: url("../img/sky.png");
+    background-attachment: fixex;
 }
 
 h1 {
